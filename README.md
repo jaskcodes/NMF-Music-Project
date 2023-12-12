@@ -1,5 +1,5 @@
 # Music Creation through Non-negative Matrix Factorization
-Colaborators: Trenton Wesley, Sarang Joshi
+Collaborators: Trenton Wesley, Sarang Joshi
 
 ### Introduction
 
